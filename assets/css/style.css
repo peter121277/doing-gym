@@ -19,5 +19,28 @@ h1, h2 {
 
 #logo {
     float: left;
-    font-size: 300%;
+    font-size: 270%;
+}
+
+#menu {
+    font-size: 100%;
+    letter-spacing: 4px;
+}
+
+#menu, #logo {
+    line-height: 60px;
+}
+
+#menu li {
+    float: right;
+    list-style-type: none;
+    margin-right: 30px;
+}
+
+#menu a {
+    text-decoration: none;
+}
+
+#menu a:hover {
+    border-bottom: 1.5px solid navy;
 }
