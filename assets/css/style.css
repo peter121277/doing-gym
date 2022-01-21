@@ -64,3 +64,22 @@ h1, h2 {
     margin: 40px 0;
     font-size: 250%;
 }
+
+footer {
+    height: 170px;
+}
+
+.social-networks {
+    text-align: center;
+}
+
+.social-networks > li {
+    display: inline;
+}
+
+.social-networks i {
+    font-size: 50px;
+    margin: 1%;
+    padding: 5%;
+
+}
