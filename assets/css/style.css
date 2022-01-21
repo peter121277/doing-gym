@@ -83,3 +83,13 @@ footer {
     padding: 5%;
 
 }
+
+#photos {
+    height: 50px;
+    width: 100%;
+    line-height: 0;
+}
+
+#photos > img {
+    width: 100%;
+}
